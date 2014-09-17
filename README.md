@@ -2,10 +2,7 @@
 
 
 Hussein Jaafar
-
 Information Systems
-
-
 
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
